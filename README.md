@@ -2,9 +2,9 @@
  A CLI tool for downloading all youtubes videos from a single channel
 
 ## Requirements
- -pytube
- -selenium
- -pandas
+ - pytube
+ - selenium
+ - pandas
 
 ## Instructions:
 ```
